@@ -1,3 +1,4 @@
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
 redis:6.2.14
+traefik:v3.1
